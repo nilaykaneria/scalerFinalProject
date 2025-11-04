@@ -1,5 +1,5 @@
 # scalerFinalProject
-This is the project that I am submitting for the project module section in scaler
+This is the project that I am submitting for the project module section in scaler neoversity
 ## Overview
 Modular microservices backend featuring:
 - **ServiceDiscovery (Eureka)** – service registry
